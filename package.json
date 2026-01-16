@@ -1,0 +1,26 @@
+{
+  "name": "demoblaze-automation",
+  "version": "1.0.0",
+  "description": "Playwright automation framework for demoblaze.com with POM pattern",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:headed": "npx playwright test --headed",
+    "test:ui": "npx playwright test --ui",
+    "test:debug": "npx playwright test --debug",
+    "report": "npx playwright show-report"
+  },
+  "keywords": [
+    "playwright",
+    "automation",
+    "testing",
+    "pom"
+  ],
+  "author": "Galang Satria Wibawa",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.57.0",
+    "dotenv": "^17.2.3",
+    "typescript": "^5.9.3"
+  }
+}
