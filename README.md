@@ -2,6 +2,11 @@
 
 Framework automation testing untuk website [demoblaze.com](https://www.demoblaze.com) menggunakan Playwright dengan TypeScript dan Page Object Model (POM).
 
+QA Assignment: Intermediate Level
+(E-Commerce Journey)
+
+Manual Test : [QA Assignment - Intermediate Level.pdf](/manual-test/)
+
 ## 🚀 Instalasi
 
 ### Prerequisites
